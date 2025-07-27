@@ -1,1 +1,1 @@
-# COVID-19-Population-Data-Project
+# COVID-19-PopulationDataProject
